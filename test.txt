@@ -2,5 +2,9 @@ hello
 
 codecamp
 
+<<<<<<< HEAD
 people
+=======
+teacher
+>>>>>>> feature-1
 
