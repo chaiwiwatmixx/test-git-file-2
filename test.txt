@@ -2,7 +2,5 @@ add some text in this file
 
 add line 2
 
-add line 3
-
-
-line 4
+line 5
+hey how are you
